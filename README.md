@@ -81,7 +81,7 @@ While working on this project, I utilized several Python libraries for data prep
 
   ![Screenshot 2025-03-27 210504](https://github.com/user-attachments/assets/669998b9-f6cc-41e7-96ad-aaff6b42702b)
 
-## VIZUALIZATION
+## Visualization
   ![image](https://github.com/user-attachments/assets/74c844bb-8d0e-4293-9bdb-06bc3f8eb196)
   ![image](https://github.com/user-attachments/assets/c21ca6e5-d786-4351-88d6-5edb1d755d60)
   ![image](https://github.com/user-attachments/assets/e8f95458-415e-4358-893d-269f62c1d32b)
@@ -92,7 +92,7 @@ While working on this project, I utilized several Python libraries for data prep
   ![image](https://github.com/user-attachments/assets/4c296838-7cc4-481b-8b87-47195016c374)
   ![image](https://github.com/user-attachments/assets/fea3c961-8e45-40eb-80d8-84f9aac9fd5d)
 
-## FINDINGS
+## Findings
 - The number of transactions was fairly steady throughout the year, with only small ups and downs. However, there were two points— one in July 2018 and another in December 2018 where 
   transactions suddenly dropped to almost zero. This is linked to the three missing dates we found earlier, possibly due to missing data, system issues, or store closures.
 - Zoomed in the transcation for December 2018 because there was a steady increase in purchases in December and a break in late December. Also noticed a big jump in sales as Christmas 
@@ -103,17 +103,17 @@ While working on this project, I utilized several Python libraries for data prep
 - Older families on budget and Mainstream- Young Singles/Couples buy more chips per customer.
 - Mainstream midage and young singles and couples are more willing to pay more per packet of chips compared to their budget and premium counterparts.
 
-## SUMMARY AND RECOMMENDATIONS
+## Summary and Recommendations
 - Our most valuable customer base are Mainstream - Young Singles/Couples. Since the Mainstream segment makes up the largest portion of our customer base, marketing efforts should be 
   focused on them.
 - The Kettle brand and 175g pack size are highly preferred by our key customer segment. Additionally, the 170g pack size has the highest number of transactions. To maximize sales, 
   prioritize production, promotions, and restocking of these popular products.
-- Since mainstream mid-age and young singles/couples are willing to pay more per packet, introduce unique flavors, organic or healthier ingredient to appeal to those who are not 
+- Since Mainstream mid-age and young singles/couples are willing to pay more per packet, introduce unique flavors, organic or healthier ingredient to appeal to those who are not 
   specifically looking for healthy snack alternatives.
 
-## FURTHER RESEARCH AND ANALYSIS
+## Further research and Analysis
 Experimentation and uplift testing, comparing trial and control stores 
-- Defime metrics to select control store
+- Define metrics to select control store.
 - Analyze trial stores against control stores.
 - Summarize findings and provide recommendation.
 

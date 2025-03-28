@@ -13,13 +13,13 @@ Julia’s goal was to understand customer segments and purchasing patterns to re
 
 The data was provided by the Grocery Data Team and consists of two datasets:
 
-1️⃣ Potato Chips Transaction Data (264,483 rows, 8 columns)
+1️⃣ Transaction Data (264,483 rows, 8 columns)
 
 - Covers sales transactions from July 2018 to June 2019.
 
 - Key columns: Transaction date, store number, loyalty card number, transaction ID, product number, product name, product quantity, and total sales.
 
-2️⃣ Customer Purchase Behavior Data (72,637 rows, 3 columns)
+2️⃣ Purchase Behavior Data (72,637 rows, 3 columns)
 
 - Contains customer lifestage and segment classifications based on overall shopping behavior beyond chips.
 

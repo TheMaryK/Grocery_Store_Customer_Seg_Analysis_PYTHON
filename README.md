@@ -49,7 +49,7 @@ While working on this project, I utilized several Python libraries for data prep
 - Data Export for Visualization: Saved the final cleaned dataset as a CSV file using to_csv() to prepare it for further analysis and interactive visualization in Power BI.
 
 ## 
-
+nn
 
 ## Findings
 - The number of transactions was fairly steady throughout the year, with only small ups and downs. However, there were two points— one in July 2018 and another in December 2018 where 

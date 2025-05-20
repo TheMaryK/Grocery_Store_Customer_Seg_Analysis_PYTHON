@@ -55,7 +55,7 @@ nn
 - The number of transactions was fairly steady throughout the year, with only small ups and downs. However, there were two points— one in July 2018 and another in December 2018 where 
   transactions suddenly dropped to almost zero. This is linked to the three missing dates we found earlier, possibly due to missing data, system issues, or store closures.
 - Zoomed in the transcation for December 2018 because there was a steady increase in purchases in December and a break in late December. Also noticed a big jump in sales as Christmas 
-  approaches and on Christmas Day itself.
+  approaches, on Christmas Day itself and Boxing day.
 - 170 grams pack size have the highest number of transactions, while other pack sizes have significantly fewer transactions.
 - Sales are coming mainly from Budget - older families, Mainstream - young singles/couples, and Mainstream - retirees
 - Highest number of customers are from Mainstream - Young singles/couples, and Mainstream - Retirees, while the fewer New families generally are our customers.

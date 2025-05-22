@@ -58,14 +58,14 @@ While working on this project, I utilized several Python libraries for data prep
 - **Custom Tooltips & Formatting**: Enhanced readability and interactivity with dynamic colors, conditional formatting, and formatted KPI cards.
 - **Drill-Down Navigation**: Page separation between "Sales & Pricing" and "Customer Insights" for focused storytelling.
 
-## Dashboard Breakdown. [Interact with dashboard](https://app.powerbi.com/view?r=eyJrIjoiNzBkNTIxMmEtNzI2ZC00NGVhLWE5N2EtYjdiZGUxMjU2ZTNiIiwidCI6Ijc3ZGJjZTk5LTYwNTQtNGFiYS04MjUwLTE5YzBlZmI0MzE4ZCJ9)
+## Dashboard Breakdown [Interact with dashboard here](https://app.powerbi.com/view?r=eyJrIjoiNzBkNTIxMmEtNzI2ZC00NGVhLWE5N2EtYjdiZGUxMjU2ZTNiIiwidCI6Ijc3ZGJjZTk5LTYwNTQtNGFiYS04MjUwLTE5YzBlZmI0MzE4ZCJ9)
 ### Page 1: Sales & Pricing
-- **Key Metrics:** Total Revenue, Quantity, Avg. Price per Pack, Avg. Revenue per Transaction.
+- **Key Metrics:** Total Revenue($2M), Quantity(471K), Avg. Price per Pack($3.84), Avg. Revenue per Transaction($7.37).
 - **Visuals:** Monthly Revenue Trend, Avg. Price per Customer Segment, Revenue by Customer Segment, Brands and Pack Size.
 - **Insights Delivered:** Performance trends over time, High-value customer segments, Top brands and pack sizes contributing to sales.
 
 ### Page 2: Customer Insights
-- **Key Metrics:** Total Customers, Transactions, Avg. Spend per Customer, Avg. Daily Order.
+- **Key Metrics:** Total Customers(73K), Transactions(245k), Avg. Spend per Customer($25.34), Avg. Daily Order(674).
 - **Visuals:** Daily Order Trend, Customer Segmentation, Customer Purchase Behaviour, Customer Spending Habit.
 - **Insights Delivered:** Behavior trends across life stages and segments, Purchase frequency and volume insights, Segment-level value analysis.
 

@@ -44,7 +44,7 @@ While working on this project, I utilized several Python libraries and concepts 
                              number) was excluded from the analysis as they were likely a commercial buyer rather than a typical retail consumer.
 - **Transaction Date Check**: Counted transactions per date and discovered only 364 unique dates, indicating missing records.
 - **Date Sequence Generation**: Generated a complete sequence of dates from July 1, 2018, to June 30, 2019, to visualize gaps in transaction records. Identified three missing dates: 
-                                July 1, July 2, and December 27, 2018—possibly due to store closures or data collection issues.
+                                July 1, July 2, and December 27, 2018 due to store closures.
 - **Feature Engineering**: Extracted pack_size and brand_name from the product_name column using string operations.
 - **Data Standardization**: Cleaned and standardized the brand_name column to ensure consistency in brand-level analysis.
 - **Data Export for Visualization**: Saved the final cleaned dataset as a CSV file using to_csv() to prepare it for further analysis and interactive visualization in Power BI.
@@ -72,7 +72,7 @@ While working on this project, I utilized several Python libraries and concepts 
 
 ## Findings
 
-- The number of transactions was fairly steady throughout the year, with only small ups and downs. However, the peak months are December 21019 and March 2019, with a total sales of 
+- The number of transactions was fairly steady throughout the year, with only small ups and downs. However, the peak months are December 2019 and March 2019, with a total sales of 
   $156.470 and $156,052 consecutively.
 - Out of the 245k transactions that occured throughout the year, Kettle brand appeared 41k times making it the most popular brand. Other brands like Doritos, Smiths, Pringles, Infuzion, 
   RRD, Sunbites, Thins and WW are also doing well.
